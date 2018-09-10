@@ -1,0 +1,8 @@
+{
+  "firstName" : "Brooke",
+  "lastName" : "Witherow",
+  "displayHandle" : "BlazingBee",
+  "posts" : ["Love my job!", "Morning classes are rough", "Aerial yoga is a pretty good workout"],
+  "age" : 22,
+  "active" : true
+}
